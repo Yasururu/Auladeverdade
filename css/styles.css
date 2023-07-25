@@ -1,0 +1,44 @@
+/* 4 - External */
+p,
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(0, 0, 280);
+    width: 600px;
+    border: 3px solid rgb(29, 221, 157);
+    border-radius: 25px;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    
+
+}
+
+table {
+    margin: auto;
+}
+
+.Nome {
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ultimate {
+    background-color: cyan;
+}
+
+.titulo1 {
+    background-color: rgba(1, 1, 255, 0.2);
+    max-width: 300px;
+    }
+
+.tt1 {
+    background-image: url(../img/gatos-de-hipster-sem-costura-de-fundo_98292-4569.avif);
+    background-position: center;
+    background-size: cover;
+    font-family: "Courier New";
+    font-style: italic;
+    font-weight: bold;
+   }

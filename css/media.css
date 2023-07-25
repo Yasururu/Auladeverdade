@@ -1,0 +1,21 @@
+img {
+    display: block;
+    width: 900px;
+    margin: auto;
+}
+
+.imagesizep1 {
+   height: 920px;
+   width: 550px;
+   background-color: aqua;
+}
+
+.containerimgp1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+.containerimgelementp1 {
+    display: inline-block;
+}
