@@ -19,3 +19,16 @@ img {
 .containerimgelementp1 {
     display: inline-block;
 }
+.sexyladycontainer {
+    position:sticky;
+    top:3px;
+    left:30px;
+}
+.sexylady {
+    height: 300px;
+    width: auto;
+    position:absolute;
+    size: 50%;
+    top: 3px;
+    right:3px;
+}
